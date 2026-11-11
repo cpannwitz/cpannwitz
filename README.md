@@ -1,18 +1,14 @@
-### Hi there 👋
+### Hi, I'm Chris 👋
+Senior Fullstack Engineer from Dresden, Germany. I build products end to end:
+React frontends, TypeScript/Node backends, PostgreSQL, and the infrastructure underneath.
+Currently @ WAKU Robotics, working on software for robot & machinery maintenance,
+and going deeper into AI Engineering (LLM apps, RAG, agents, MCP).
 
-Discovering secrets is fun :)
+**Daily stack:** TypeScript · React · TanStack · Hono · Kysely · PostgreSQL · Supabase · k3s · GitHub Actions · Grafana
+**Exploring:** LLM applications · embeddings & RAG · agents · MCP
 
-<!--
-**cpannwitz/cpannwitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of my work lives in private company repos. Here you'll find side projects:
+- **privance**: personal finance observation tool
+- **homeserver-v2**: Raspberry Pi home server & automation setup
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 linkedin.com/in/cpannwitz
